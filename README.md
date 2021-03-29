@@ -1,5 +1,7 @@
 A Netflix looklike site that uses TMDB Api and was created with ReactJS, React Hooks, Axios and Redux.
 
+live demo : https://60617ac75c9cdf1dab67a4a4--lucid-wing-38dc28.netlify.app/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
